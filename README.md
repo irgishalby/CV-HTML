@@ -1,5 +1,5 @@
 # CV-HTML
-Tugas Pengembangan Aplikasi Website
+Tugas Mata Kuliah Pengembangan Aplikasi Website
 
 Irgi Shalby Ramadhani
 102042300043
